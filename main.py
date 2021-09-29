@@ -19,4 +19,4 @@ def function(x, y):
     else:
         return False
 
-def(function(x, y))
+print(function(x, y))
