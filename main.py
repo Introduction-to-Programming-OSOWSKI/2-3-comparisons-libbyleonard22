@@ -1,25 +1,31 @@
 #WRITE YOUR CODE IN THIS FILE
 
 def greaterThan(x, y):
-    if   (4, 8):
+    if x > y:
         return True
+    else:
+        return False
 
 def lessThan(x, y):
-    if   (33, 18):
+    if  x < y:
+        return True
+    else:
         return False
 
 def equalTo(x, y):
-    if   (90, 34):
+    if  x == y:
         return True
+    else:
+        return False
 
 def greaterOrEqual(x, y):
-    if   (22, 44):
+    if  x >= y:
+        return True
+    else:
         return False
 
 def lessOrEqual(x, y):
-    if (12, 32):
+    if x <= y:
         return True
-
-def function(x, y):
-    if (5, 7):
+    else:
         return False
